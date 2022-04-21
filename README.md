@@ -1,3 +1,5 @@
-#Egg-O-Maniac
+# Egg-O-Maniac
 
-Egg cooking app 
+## Egg cooking app
+
+Cocoapods installation is required
