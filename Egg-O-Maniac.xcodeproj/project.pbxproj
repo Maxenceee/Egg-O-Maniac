@@ -198,6 +198,7 @@
 		3697146D26054A0F00B02699 /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
 		3699AB0325E54C5C00F85555 /* IntroContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroContentView.swift; sourceTree = "<group>"; };
 		36A952DB25D93D40006F2F3E /* IntroViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroViewController.swift; sourceTree = "<group>"; };
+		36BE98612811CE240086317A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		36C6F53B25E682290018E606 /* cooking.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = cooking.json; sourceTree = "<group>"; };
 		36C6F53C25E682290018E606 /* boiling-pot.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "boiling-pot.json"; sourceTree = "<group>"; };
 		36CB707D25CED45300802511 /* CardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
@@ -548,6 +549,7 @@
 		8707B2A12556F48C00A62396 = {
 			isa = PBXGroup;
 			children = (
+				36BE98612811CE240086317A /* README.md */,
 				87A5A8962572A0A20056B26E /* TestPlan.xctestplan */,
 				3682703D25BCC9A50087616E /* Podfile */,
 				8707B3542557167700A62396 /* Egg-O-Maniac */,
