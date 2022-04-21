@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Rendu actuel :"; ObjectID = "VLr-jT-pZh"; */
+"VLr-jT-pZh.text" = "Rendu actuel :";
+
+/* Class = "UIButton"; normalTitle = "Couleur 1"; ObjectID = "g4j-Ap-DjW"; */
+"g4j-Ap-DjW.normalTitle" = "Couleur 1";
+
+/* Class = "UIButton"; normalTitle = "Couleur 2"; ObjectID = "hM1-aQ-lzO"; */
+"hM1-aQ-lzO.normalTitle" = "Couleur 2";
+
+/* Class = "UIButton"; normalTitle = "Enregistrer"; ObjectID = "ikG-Cw-zKM"; */
+"ikG-Cw-zKM.normalTitle" = "Enregistrer";
+
+/* Class = "UILabel"; text = "Couleurs personnalisées"; ObjectID = "lsr-gF-jus"; */
+"lsr-gF-jus.text" = "Couleurs personnalisées";

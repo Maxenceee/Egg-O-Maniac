@@ -1,0 +1,36 @@
+
+/* Class = "WKInterfaceButton"; title = "Mollet"; ObjectID = "3uh-s2-LbQ"; */
+"3uh-s2-LbQ.title" = "Medium
+boiled";
+
+/* Class = "WKInterfaceButton"; title = "Dur"; ObjectID = "9z2-t6-xHd"; */
+"9z2-t6-xHd.title" = "Hard
+boiled";
+
+/* Class = "WKInterfaceLabel"; text = "Choisir la cuisson"; ObjectID = "Brz-vC-I6U"; */
+"Brz-vC-I6U.text" = "Select your cooking";
+
+/* Class = "WKInterfaceLabel"; text = "Votre minuteur est terminé. Vos oeufs sont prêts."; ObjectID = "EgY-9l-oPt"; */
+"EgY-9l-oPt.text" = "The timer is done. Your eggs are cooked.";
+
+/* Class = "WKInterfaceLabel"; text = "C'est cuit !"; ObjectID = "IdU-wH-bcW"; */
+"IdU-wH-bcW.text" = "It's done!";
+
+/* Class = "WKInterfaceLabel"; text = "C'est cuit !"; ObjectID = "X0b-sJ-XDe"; */
+"X0b-sJ-XDe.text" = "It's done!";
+
+/* Class = "WKInterfaceLabel"; text = "Votre minuteur est terminé. Vos oeufs sont prêts."; ObjectID = "Z3c-uw-MzR"; */
+"Z3c-uw-MzR.text" = "The timer is done. Your eggs are cooked.";
+
+/* Class = "WKInterfaceButton"; title = "Pause"; ObjectID = "jnQ-4S-p4V"; */
+"jnQ-4S-p4V.title" = "Pause";
+
+/* Class = "WKInterfaceLabel"; text = "C'est cuit !"; ObjectID = "omU-Nb-KSy"; */
+"omU-Nb-KSy.text" = "It's done!";
+
+/* Class = "WKInterfaceButton"; title = "Arrêter"; ObjectID = "qWp-cV-2JF"; */
+"qWp-cV-2JF.title" = "Stop";
+
+/* Class = "WKInterfaceButton"; title = "À la coque"; ObjectID = "uYK-kc-Nsu"; */
+"uYK-kc-Nsu.title" = "Soft
+boiled";

@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "Gros"; ObjectID = "Qi6-Qm-Sg8"; */
+"Qi6-Qm-Sg8.normalTitle" = "Large";
+
+/* Class = "UIButton"; normalTitle = "Petit"; ObjectID = "RDU-wm-dgc"; */
+"RDU-wm-dgc.normalTitle" = "Small";
+
+/* Class = "UILabel"; text = "De quelle taille est votre oeuf ?"; ObjectID = "biH-KW-m9M"; */
+"biH-KW-m9M.text" = "What size is your egg?";
+
+/* Class = "UIButton"; normalTitle = "Moyen"; ObjectID = "cV3-VD-iLQ"; */
+"cV3-VD-iLQ.normalTitle" = "Medium";
+
+/* Class = "UILabel"; text = "En cas de taille significativement differente de la normale le temps de cuisson peut varier."; ObjectID = "yGt-Sk-CMU"; */
+"yGt-Sk-CMU.text" = "In case of significantly different size than normal, the cooking time may vary.";

@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Rendu actuel :"; ObjectID = "VLr-jT-pZh"; */
+"VLr-jT-pZh.text" = "Current look :";
+
+/* Class = "UIButton"; normalTitle = "Couleur 1"; ObjectID = "g4j-Ap-DjW"; */
+"g4j-Ap-DjW.normalTitle" = "Color 1";
+
+/* Class = "UIButton"; normalTitle = "Couleur 2"; ObjectID = "hM1-aQ-lzO"; */
+"hM1-aQ-lzO.normalTitle" = "Color 2";
+
+/* Class = "UIButton"; normalTitle = "Enregistrer"; ObjectID = "ikG-Cw-zKM"; */
+"ikG-Cw-zKM.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "Couleurs personnalisées"; ObjectID = "lsr-gF-jus"; */
+"lsr-gF-jus.text" = "Custom Colors";
+
+/* Class = "UIButton"; normalTitle = "Annuler"; ObjectID = "hRW-ro-MGj"; */
+"hRW-ro-MGj.normalTitle" = "Cancel";

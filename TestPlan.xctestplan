@@ -1,0 +1,18 @@
+{
+  "configurations" : [
+    {
+      "id" : "D9059FAC-26AF-46C3-BB18-8FB3CEB52C84",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+
+  ],
+  "version" : 1
+}

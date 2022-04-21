@@ -1,0 +1,108 @@
+"Quelle cuisson voulez-vous ?" = "Select your cooking";
+"À la coque" = "Soft
+boiled";
+"Mollet" = "Medium
+boiled";
+"Dur" = "Hard
+boiled";
+"Choisir la taille" = "Choose size";
+"Petit" = "Small";
+"Moyen" = "Medium";
+"Gros" = "Large";
+"Température" = "Temperature";
+
+"C'est cuit !" = "It's done!";
+"Ça y est vos oeufs sont prêts.
+Votre minuteur est terminé." = "The timer is done.
+Your eggs are cooked.";
+"Ça y est vos oeufs sont prêts. Votre minuteur est terminé.\nBon appétit !" = "The timer is done. Your eggs are cooked.\nHappy meal!";
+"Minuteur arrêté" = "Timer stopped";
+
+"Arrêter" = "Stop";
+"Fermer" = "Done";
+
+"Réglages" = "Settings";
+"   Langue" = "   Language";
+"   Couleurs du minuteur" = "   Timer colors";
+"   Couleur d'arrière plan" = "   Background color";
+"   Synchroniser avec Santé" = "   Synchronize whith Health";
+"   À propos" = "   About";
+
+"Syncroniser" = "Synchronize";
+"Syncronisation avec Santé" = "Synchronize with Health";
+
+"Autorisez le partage de données avec Santé. Seules des informations nutritives seront partagées." = "Allow data sharing with Health. Only nutritious information will be shared.";
+
+"L'application partage déjà ses données Santé. Vous pouvez modifier les permitions directement dans l'application Santé." = "The application already shares its health data. You can modify the permitions directly in the Health application.";
+
+
+"Votre avis nous interesse" = "We value your opinion";
+"Suivez-nous" = "Follow-us";
+"Évaluer-nous sur l'App Store" = "Rate in App Store";
+"Donnez-nous votre avis" = "Share your opinion";
+"Signaler un bug" = "Feedback";
+"Supprimer les pubs" = "Delete ads";
+
+"Voir" = "More";
+"Oeuf à la coque" = "Soft boiled egg";
+"Oeuf mollet" = "Medium boiled egg";
+"Oeuf dur" = "Hard boiled egg";
+"Ouefs mimosa" = "Mimosa egg";
+"Recettes" = "Recipes";
+"Recette" = "Recipe";
+
+"Comment faire de bon oeufs à la coque." = "How to do good soft-boiled eggs.";
+"Comment faire de bon oeufs mollets." = "How to do good medium-boiled eggs.";
+"Comment faire de bon oeufs durs." = "How to do good hard-boiled eggs.";
+"Comment faire de bon oeufs mimosa." = "How to do good mimosa eggs.";
+
+
+"Les pubs sont déjà supprimées" = "Ads are already disabled";
+"Saisir le code" = "Enter the code";
+"Code bon" = "Correct";
+"Mauvais code" = "The code is not correct";
+"Pubs supprimées" = "Ads deleted";
+"Afin que la modification s'applique, fermez l'application puis rouvrez-la." = "To apply changes, close the application and then reopen it.";
+"Les pubs ont été supprimées." = "The ads have been deleted.";
+"Réessayez" = "Try again";
+
+
+"Rouge & Orange-Default" = "Red & Orange-Default";
+"Cyan & Vert" = "Cyan & Green";
+"Rouge & Rose" = "Red & Pink";
+"Bleu & Violet" = "Blue & Purple";
+"Vert & Marron" = "Green & Brown";
+"Rouge & Cyan" = "Red & Cyan";
+"Vairon & Rose Pâle" = "Minnow & Pale Pink";
+"Jaune & Blanc" = "Yellow & White";
+"Couleurs Personnalisées" = "Custom Colors";
+
+"Bleu clair - Default" = "Light blue - Default";
+"Cyan" = "Cyan";
+"Rouge" = "Red";
+"Vert" = "Green";
+"Jaune" = "Yellow";
+"Violet" = "Purple";
+"Saumon" = "Salmon" ;
+"Gris" = "Gray";
+"Blanc" = "White";
+
+"Passer" = "Skip";
+"Étape 1" = "Step 1";
+"Étape 2" = "Step 2";
+"Étape 3" = "Step 3";
+"Bienvenue !" = "Hello member!";
+
+"\(temp)° - Temp. Ambiante" = "\(temp)° - Room Temp.";
+" - Congélateur" = " - Freezer";
+" - Réfrigérateur" = " - Fridge";
+" - Légèrement frais" = " - Slightly fresh";
+" - Temp. Ambiante" = " - Room Temp.";
+" - Coup de chaud" = " - Heated";
+
+
+"Rendu actuel :" = "Current look :";
+
+
+"Données Santé ajoutées avec succès" = "Health data successfully added";
+"Vous pouvez directement les consulter dans l'application Santé." = "You can consult them directly in the Health App.";

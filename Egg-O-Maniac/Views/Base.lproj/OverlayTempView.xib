@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="18122" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="18093"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="OverlayTempView" customModule="Egg_O_Maniac" customModuleProvider="target">
+            <connections>
+                <outlet property="mainLabel" destination="Gl3-g1-Fpj" id="gqf-sc-n6n"/>
+                <outlet property="sliderIndicator" destination="gxh-7L-vHC" id="SW5-6a-9Tm"/>
+                <outlet property="tempLabel" destination="Bm0-VC-wBT" id="piP-hb-tWM"/>
+                <outlet property="tempSlider" destination="Fu9-Fb-Nt3" id="Fwg-CM-7aG"/>
+                <outlet property="view" destination="4r2-7H-V03" id="PXq-Bk-gZZ"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="4r2-7H-V03">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="370"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="gxh-7L-vHC">
+                    <rect key="frame" x="182" y="10" width="50" height="5"/>
+                    <color key="backgroundColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="5" id="Amu-YZ-hDl"/>
+                        <constraint firstAttribute="width" constant="50" id="v3I-hW-Sca"/>
+                    </constraints>
+                </view>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="À quelle température est votre oeuf ?" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Gl3-g1-Fpj">
+                    <rect key="frame" x="10.5" y="50" width="393" height="40"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="40" id="oFu-rl-Dyh"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                    <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <slider contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="20" minValue="-5" maxValue="50" translatesAutoresizingMaskIntoConstraints="NO" id="Fu9-Fb-Nt3">
+                    <rect key="frame" x="18" y="240" width="378" height="31"/>
+                    <color key="tintColor" red="0.50724993396908358" green="0.01646267333" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="30" id="1BF-cT-laS"/>
+                    </constraints>
+                    <color key="maximumTrackTintColor" systemColor="systemGray2Color"/>
+                    <connections>
+                        <action selector="tempSliderChnaged:" destination="-1" eventType="valueChanged" id="Apx-VJ-eGs"/>
+                    </connections>
+                </slider>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0°" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Bm0-VC-wBT">
+                    <rect key="frame" x="191.5" y="170" width="31" height="35"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="35" id="aid-7h-c8N"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="30"/>
+                    <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Le temps de cuisson de votre oeuf peut varier en fonction de sa température initiale." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lI5-gR-1XH">
+                    <rect key="frame" x="10" y="90" width="394" height="36"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                    <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="EOc-xn-450"/>
+            <color key="backgroundColor" red="0.22352941176470587" green="0.43529411764705883" blue="0.68627450980392157" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="EOc-xn-450" firstAttribute="trailing" secondItem="Fu9-Fb-Nt3" secondAttribute="trailing" constant="20" id="414-Uz-ViX"/>
+                <constraint firstItem="lI5-gR-1XH" firstAttribute="leading" secondItem="4r2-7H-V03" secondAttribute="leading" constant="10" id="BWw-Ni-GnM"/>
+                <constraint firstItem="Fu9-Fb-Nt3" firstAttribute="top" secondItem="Gl3-g1-Fpj" secondAttribute="bottom" constant="150" id="D5e-xu-gex"/>
+                <constraint firstItem="Fu9-Fb-Nt3" firstAttribute="leading" secondItem="EOc-xn-450" secondAttribute="leading" constant="20" id="I1T-iS-f2P"/>
+                <constraint firstItem="Gl3-g1-Fpj" firstAttribute="top" secondItem="4r2-7H-V03" secondAttribute="top" constant="50" id="MOA-TN-dce"/>
+                <constraint firstAttribute="trailing" secondItem="lI5-gR-1XH" secondAttribute="trailing" constant="10" id="W6b-rB-Kar"/>
+                <constraint firstItem="lI5-gR-1XH" firstAttribute="top" secondItem="Gl3-g1-Fpj" secondAttribute="bottom" id="WFA-NB-cnS"/>
+                <constraint firstItem="Bm0-VC-wBT" firstAttribute="centerX" secondItem="Gl3-g1-Fpj" secondAttribute="centerX" id="XyA-QO-roA"/>
+                <constraint firstItem="lI5-gR-1XH" firstAttribute="centerX" secondItem="4r2-7H-V03" secondAttribute="centerX" id="bUk-E4-4xm"/>
+                <constraint firstItem="Bm0-VC-wBT" firstAttribute="top" secondItem="Gl3-g1-Fpj" secondAttribute="bottom" constant="80" id="lrg-jD-eK7"/>
+                <constraint firstItem="Gl3-g1-Fpj" firstAttribute="centerX" secondItem="4r2-7H-V03" secondAttribute="centerX" id="s4m-TN-MT7"/>
+                <constraint firstItem="gxh-7L-vHC" firstAttribute="top" secondItem="4r2-7H-V03" secondAttribute="top" constant="10" id="une-4A-UwE"/>
+                <constraint firstItem="gxh-7L-vHC" firstAttribute="centerX" secondItem="4r2-7H-V03" secondAttribute="centerX" id="vxu-Ig-VZa"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="-255.07246376811597" y="445.98214285714283"/>
+        </view>
+    </objects>
+    <resources>
+        <systemColor name="systemGray2Color">
+            <color red="0.68235294117647061" green="0.68235294117647061" blue="0.69803921568627447" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>

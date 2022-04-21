@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "0°"; ObjectID = "Bm0-VC-wBT"; */
+"Bm0-VC-wBT.text" = "0°";
+
+/* Class = "UILabel"; text = "À quelle température est votre oeuf ?"; ObjectID = "Gl3-g1-Fpj"; */
+"Gl3-g1-Fpj.text" = "What temperature is your egg?";
+
+/* Class = "UILabel"; text = "Le temps de cuisson de votre oeuf peut varier en fonction de sa température initiale"; ObjectID = "lI5-gR-1XH"; */
+"lI5-gR-1XH.text" = "The cooking time of your egg may vary depending on its initial temperature.";

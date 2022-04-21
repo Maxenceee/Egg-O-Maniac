@@ -1,0 +1,42 @@
+
+/* Class = "UILabel"; text = "Signaler un bug"; ObjectID = "BVh-Ji-Fn5"; */
+"BVh-Ji-Fn5.text" = "Feedback";
+
+/* Class = "UILabel"; text = "Titre descriptif"; ObjectID = "Cfo-Uk-wqe"; */
+"Cfo-Uk-wqe.text" = "Explicit title";
+
+/* Class = "UILabel"; text = "EggTimer"; ObjectID = "LS2-ul-2iN"; */
+"LS2-ul-2iN.text" = "EggTimer";
+
+/* Class = "UINavigationItem"; title = "À propos"; ObjectID = "QkJ-Y4-UDm"; */
+"QkJ-Y4-UDm.title" = "About";
+
+/* Class = "UIBarButtonItem"; title = "Fermer"; ObjectID = "bBx-BZ-TpM"; */
+"bBx-BZ-TpM.title" = "Done";
+
+/* Class = "UINavigationItem"; title = "Qui sommes nous"; ObjectID = "bvn-TX-wgO"; */
+"bvn-TX-wgO.title" = "Qui sommes nous";
+
+/* Class = "UITextView"; text = "Nous sommes qui nous devons etre mais est-ce-que la personne que nous devons etre est vraiment nous."; ObjectID = "fhh-l3-aBu"; */
+"fhh-l3-aBu.text" = "Nous sommes qui nous devons etre mais est-ce-que la personne que nous devons etre est vraiment nous.";
+
+/* Class = "UITextField"; placeholder = "Saisir le code"; ObjectID = "gd8-hi-0cD"; */
+"gd8-hi-0cD.placeholder" = "Enter the code";
+
+/* Class = "UILabel"; text = "Décrivez le problème le plus précisement possible"; ObjectID = "giO-XU-Tym"; */
+"giO-XU-Tym.text" = "Describe the problem as precisely as possible";
+
+/* Class = "UIButton"; normalTitle = "Valider"; ObjectID = "jJY-dY-eHK"; */
+"jJY-dY-eHK.normalTitle" = "Validate";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "k7N-8x-11I"; */
+"k7N-8x-11I.text" = "Title";
+
+/* Class = "UITabBarItem"; title = "À propos"; ObjectID = "mcT-Uh-3sc"; */
+"mcT-Uh-3sc.title" = "About";
+
+/* Class = "UIButton"; normalTitle = "Envoyer"; ObjectID = "qNf-QI-Iqt"; */
+"qNf-QI-Iqt.normalTitle" = "Send";
+
+/* Class = "UILabel"; text = "Saisir le code"; ObjectID = "tVa-yP-czt"; */
+"tVa-yP-czt.text" = "Enter the code";
